@@ -4,8 +4,7 @@ A database of conserved viral RNA structures.
 If you use data provided in this repository in your own work please cite the following publications:
 
 **Functional RNA Structures in the 3’UTR of Mosquito-Borne Flaviviruses**
-Michael T. Wolfinger, Roman Ochsenreiter, Ivo L. Hofacker
-2021
+_Michael T. Wolfinger, Roman Ochsenreiter, Ivo L. Hofacker_ 2021
 
 **Functional RNA Structures in the 3'UTR of Tick-Borne, Insect-Specific and No-Known-Vector Flaviviruses**
 _Roman Ochsenreiter, Ivo L. Hofacker, Michael T. Wolfinger_
