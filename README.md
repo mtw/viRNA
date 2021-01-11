@@ -2,7 +2,7 @@
 
 Michael T. Wolfinger<sup>1,2</sup>
 
-<sub><sup>1</sup>Department of Theoretical Chemistry, University of Vienna, Vienna, Austria</sub>
+<sub><sup>1</sup>Department of Theoretical Chemistry, University of Vienna, Vienna, Austria</sub><br/>
 <sub><sup>2</sup>Research Group Bioinformatics and Computational Biology, Faculty of Computer Science, University of Vienna, Vienna, Austria</sub>
 
 
