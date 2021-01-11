@@ -1,7 +1,18 @@
-# viRNA
-A database of conserved viral RNA structures. 
+# viRNA: A database of conserved viral RNA structures
 
-If you use data provided in this repository in your own work please cite the following publications:
+Michael T. Wolfinger<sup>1,2</sup>
+
+<sub><sup>1</sup>Department of Theoretical Chemistry, University of Vienna, Vienna, Austria</sub>
+<sub><sup>2</sup>Research Group Bioinformatics and Computational Biology, Faculty of Computer Science, University of Vienna, Vienna, Austria</sub>
+
+
+This repository is intended to provide a (not necessarily complete) collection of structural multiple sequence alignments of evolutionary conserved RNA structures in viruses. Currently, specific ecologic groups of flaviviruses are covered.
+
+Each alignment of viral sequences represents a particular RNA family of structurally homologous entities and has been built either from known RNA families or derived de-novo by comparative genomics. All alignments are in Stockholm format, which allows easy construction of [Infernal](http://eddylab.org/infernal/) covariance models.
+
+While some of the alignments are also available though the [Rfam](https://rfam.xfam.org) database, several alignments provided here have been specifically built for particular viral species or groups. This allows for a fine-grained characterization and comparison of conserved RNA elements in different viruses, as outlined in the below publications.
+
+If you use data provided in this repository in your own work please link back to this site and cite the following publications - Thank you!
 
 - **Functional RNA Structures in the 3’UTR of Mosquito-Borne Flaviviruses**  
  _Michael T. Wolfinger, Roman Ochsenreiter, Ivo L. Hofacker_  
