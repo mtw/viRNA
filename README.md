@@ -1,4 +1,4 @@
-# viRNA: A database of conserved viral RNA structures
+# viRNA: A collection of conserved viral RNA structures
 
 Michael T. Wolfinger<sup>1,2</sup>
 
