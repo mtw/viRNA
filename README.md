@@ -16,7 +16,7 @@ If you use data provided in this repository in your own work please link back to
 
 - **Functional RNA Structures in the 3’UTR of Mosquito-Borne Flaviviruses**  
  _Michael T. Wolfinger, Roman Ochsenreiter, Ivo L. Hofacker_  
- (2021) [Preprint PDF](https://github.com/mtw/viRNA/blob/main/Publications/Wolfinger-2021__PREPRINT.pdf) | [doi:10.1201/9781003097679-5](https://dx.doi.org/10.1201/9781003097679-5)
+ (2021) [Preprint PDF](https://github.com/mtw/viRNA/raw/main/Publications/Wolfinger-2021__PREPRINT.pdf) | [doi:10.1201/9781003097679-5](https://dx.doi.org/10.1201/9781003097679-5)
 
 - **Functional RNA Structures in the 3'UTR of Tick-Borne, Insect-Specific and No-Known-Vector Flaviviruses**  
  _Roman Ochsenreiter, Ivo L. Hofacker, Michael T. Wolfinger_  
