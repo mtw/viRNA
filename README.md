@@ -20,4 +20,4 @@ If you use data provided in this repository in your own work please link back to
 
 - **Functional RNA Structures in the 3'UTR of Tick-Borne, Insect-Specific and No-Known-Vector Flaviviruses**  
  _Roman Ochsenreiter, Ivo L. Hofacker, Michael T. Wolfinger_  
- Viruses 11(3):298 (2019) [PDF](http://lindor.tbi.univie.ac.at/fileadmin/media/papers/Ochsenreiter-2019.pdf) | [doi:10.3390/v11030298](https://doi.org/10.3390/v11030298)
+ Viruses 11(3):298 (2019) [PDF](https://github.com/mtw/viRNA/raw/main/Publications/Ochsenreiter-2019.pdf) | [doi:10.3390/v11030298](https://doi.org/10.3390/v11030298)
