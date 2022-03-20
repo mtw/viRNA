@@ -14,6 +14,10 @@ While some of the alignments are also available though the [Rfam](https://rfam.x
 
 If you use data provided in this repository in your own work please link back to this site and cite the following publications - Thank you!
 
+- **Evolutionary traits of Tick-borne encephalitis virus: Pervasive non-coding RNA structure conservation and molecular epidemiology**
+ _Lena S. Kutschera, Michael T. Wolfinger_
+  bioRxiv 2021.12.16.473019 [Preprint PDF](https://github.com/mtw/viRNA/raw/main/Publications/Kutschera-2022__PREPRINT.pdf) | [doi:10.1101/2021.12.16.473019] (https://doi.org/10.1101/2021.12.16.473019)
+  
 - **Functional RNA Structures in the 3’UTR of Mosquito-Borne Flaviviruses**  
  _Michael T. Wolfinger, Roman Ochsenreiter, Ivo L. Hofacker_  
  In _Virus Bioinformatics_ pp 65-100; Chapman and Hall/CRC (2021) [Preprint PDF](https://github.com/mtw/viRNA/raw/main/Publications/Wolfinger-2021__PREPRINT.pdf) | [doi:10.1201/9781003097679-5](https://dx.doi.org/10.1201/9781003097679-5)
