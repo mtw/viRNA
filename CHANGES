@@ -1,6 +1,9 @@
 Changes:
 --------
 
+v0.x.y
+  - Add TBEV 5'UTR elements SLA, SLB, and cHP
+
 v0.1.2:
   - Add 3'UTR elements found in different subtypes of tick-borne encephalitis virus
 
